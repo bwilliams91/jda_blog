@@ -9,9 +9,11 @@ The goals of this assignment are that students:
  
 ## Instructions
  1. )  Fork a copy of this repo. This copy will be where your blog is stored.
- 2. ) Spend time learning the Django framework.
- 3. ) Fulfill all of the tickets in this repo. Each ticket will be considered "complete" when their acceptance criteria is completed.
- 4. ) Post at least one of your articles to this blog.
+ 2. ) Add your fellow engineers to your repo as contributors.
+ 3. ) Spend time learning the Django framework.
+ 4. ) Fulfill all of the tickets in this repo. Each ticket will be considered "complete" when their acceptance criteria is completed.
+ 5. ) Create a new branch for each ticket, and merge your work back in once your ticket is completed. Have your code reviewed by another engineer before it's merged in.
+ 6. ) Post at least one of your articles to this blog.
 
 ## Blog Features
 This blog will have a few noteworthy features. Feel free to add to this features list once your main assignment is completed:
